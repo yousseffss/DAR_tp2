@@ -1,8 +1,8 @@
 # TP2 – Sockets TCP : E/R de CC & objets
-**Nom Prénom – LSI3 – Développement d'applications réparties**
+**Samet Youssef– LSI3 – Développement d'applications réparties**
 
 ## Étape 1 : Préparation de l'espace de travail
-Création du répertoire `NomPrenom_LSI3_DevAppReparties` et des dossiers `Activite2-1` et `Activite2-2`.
+Création du répertoire `SametYoussef_LSI3_DevAppReparties` et des dossiers `Activite2-1` et `Activite2-2`.
 
 ![Espace de travail](screenshots/0-workspace.png)
 
